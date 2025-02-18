@@ -29,3 +29,5 @@ Usage Restrictions: Players are granted limited access for personal entertainmen
 Account Management: We reserve the right to suspend or terminate accounts that violate our rules.
 
 Updates & Changes: We may update our games, rules, and features at any time to enhance user experience.
+##Link
+``https://hidden-objectt.netlify.app/``
